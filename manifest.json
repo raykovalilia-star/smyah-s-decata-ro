@@ -1,0 +1,17 @@
+{
+  "name": "Să râdem cu copiii",
+  "short_name": "Râdem",
+  "description": "Ghid pentru timp plăcut",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#C8282B",
+  "theme_color": "#C8282B",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
